@@ -7,9 +7,9 @@
 Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu estágio para aprender tecnologias de front-end e back-end. Colaborei com outros três estagiários em todas as etapas do projeto. A aplicação é uma plataforma educacional que permite a organização e registro de alunos, professores, cursos e turmas
 
 ## Layout web
-![Web 1]()
+![Web 1](https://github.com/devpedrorocha/controle-academico/blob/main/controle-academico-front/src/assets/screenshot-admin-home-page.png)
 
-![Web 2]()
+![Web 2](https://github.com/devpedrorocha/controle-academico/blob/main/controle-academico-front/src/assets/screenshot-login.png)
 
 
 # Tecnologias utilizadas
