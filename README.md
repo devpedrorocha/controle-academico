@@ -11,6 +11,8 @@ Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu
 
 ![Web 2](https://github.com/devpedrorocha/controle-academico/blob/main/controle-academico-front/src/assets/screenshot-login.png)
 
+### Observação
+Há outras páginas dentro da aplicação mas por não estar conseguindo o acesso ao banco no momento, as tabelas de CRUD não estão mostrando os usuários, turmas, disciplinas, etc.
 
 # Tecnologias utilizadas
 ## Back end
@@ -29,7 +31,7 @@ Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu
 
 ## Back end
 
-Estou com problemas
+Estou com problemas em conseguir acesso do banco de Dados. Atualizarei em breve o que será necessário.
 
 ## Front end 
 Pré-requisitos: npm / yarn
