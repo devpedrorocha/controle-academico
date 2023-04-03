@@ -28,6 +28,7 @@ Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu
 # Como executar o projeto
 
 ## Back end
+Pré-requisitos: Redis
 
 ```bash
 # clonar repositório
