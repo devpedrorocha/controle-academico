@@ -27,7 +27,7 @@ Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu
 
 # Como executar o projeto
 
-## Front end web
+## Front end 
 Pré-requisitos: npm / yarn
 
 ```bash
