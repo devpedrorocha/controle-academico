@@ -1,1 +1,1 @@
-# Controle Acadêmico Front-end
+# Front end do projeto Controle Acadêmico
