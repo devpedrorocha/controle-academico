@@ -45,7 +45,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/devpedrorocha/controle-academico.git
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd controle-academico-front
 
 # instalar dependências
 yarn install
