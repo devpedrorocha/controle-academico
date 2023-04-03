@@ -27,19 +27,6 @@ Controle Acadêmico é uma aplicação full stack web que desenvolvi durante meu
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Redis
-
-```bash
-# clonar repositório
-git clone https://github.com/devpedrorocha/controle-academico.git
-
-# entrar na pasta do projeto front end web
-cd controle-academico-back-end
-
-# executar o projeto
-```
-
 ## Front end web
 Pré-requisitos: npm / yarn
 
