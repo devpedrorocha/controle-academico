@@ -1,1 +1,1 @@
-# Back end do Projeto Controle Acadêmico
+# Back end do projeto Controle Acadêmico
